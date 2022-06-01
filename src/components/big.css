@@ -1,0 +1,9 @@
+.calc-sect{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 100px;
+}
+.calc{
+    width: 60%;
+    text-align: center;
+}
