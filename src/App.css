@@ -8,21 +8,11 @@
   -webkit-app-region: none;
 }
 
-body {
-  display: grid;
-  place-content: center;
-  font-family: "Roboto", sans-serif;
-  height: 100vh;
-  font-size: 2rem;
-}
-
 .container {
   height: 80vh;
   width: 50vh;
-  padding: 1rem;
-  /* -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
-  -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
-  box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75); */
+
+  
 }
 
 .wrapper {
@@ -31,7 +21,7 @@ body {
   width: 100%;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(6, 1fr);
-  gap: 10px;
+  gap: 2px;
 }
 
 .screen {

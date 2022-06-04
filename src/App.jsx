@@ -4,6 +4,7 @@ import Home from './components/Home';
 import Nav from './components/Navbar';
 import Calculator from './components/Big';
 import Quote from './components/Quote';
+import './App.css'
 
 
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import './home.css';
-import Nav from './Navbar';
+// import Nav from './Navbar';
 
 const Test = () => {
     return (

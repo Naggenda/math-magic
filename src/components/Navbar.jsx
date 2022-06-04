@@ -9,7 +9,6 @@ function Navbar () {
               <span>Math Magicians</span>
            </div>
            <div className="nav-links">
-           
               <ul>
                  <li><Link to="/"> Home </Link></li>
                  <li><Link to="/Calculator"> Calculator </Link></li>
