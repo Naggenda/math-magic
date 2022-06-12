@@ -4,12 +4,10 @@
 * Read a random math-related quote.
 ## Live preview
 ### Github
-Take a look at the calculator page i created =>
-### Heroku
-Take a look at the Movies page we Create => link
+Take a look at the calculator page i created => [link](https://github.com/Naggenda/math-magic)
 
-### Netlify
-Take a look at the Movies page we Create => link
+### Vercel Preview
+Take a look at the Movies page we Create => [link](https://my-calculator-three.vercel.app/)
 
 ## Built With
 React
