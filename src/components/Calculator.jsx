@@ -159,7 +159,7 @@ function Calculator() {
         <div className='btn' onClick={inputNum}>
           .
         </div>
-        <div className='btn' onClick={equals}>
+        <div className='btn orange' onClick={equals}>
           =
         </div>
       </div>
