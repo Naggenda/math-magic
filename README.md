@@ -34,7 +34,7 @@ yarn install
 
 launch project locally with
 
-npm start or yarn start
+npm run dev
 
 ### Available Scripts
 In the project directory, you can run:
