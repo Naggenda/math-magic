@@ -18,7 +18,7 @@ Webpack
 GitFlow
 Javascript
 ## Development set up
-Clone Repository using git@github.com:isaacpitwa/math_magicians.git
+Clone Repository using git@github.com:Naggenda/math_magic.git
 
 OR using HTTPS
 
