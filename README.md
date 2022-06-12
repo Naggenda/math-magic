@@ -22,7 +22,7 @@ Clone Repository using git@github.com:Naggenda/math_magic.git
 
 OR using HTTPS
 
-https://github.com/Naggenda/math_magic.git
+https://github.com/Naggenda/math-magic
 
 move into project directory cd math_magic
 
