@@ -70,8 +70,8 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 
 ### Author
 * GitHub: [@Naggenda](https://github.com/Naggenda)
-* Twitter: @naggendajoshua
-* LinkedIn: LinkedIn
+* Twitter: [@naggendajoshua](https://twitter.com/home)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-naggenda-083075207/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=ug)
 * handshake Contributing
 ### Contributions, issues, and feature requests are welcome!
 
