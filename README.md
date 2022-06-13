@@ -72,8 +72,8 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 * GitHub: [@Naggenda](https://github.com/Naggenda)
 * Twitter: [@naggendajoshua](https://twitter.com/home)
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/joshua-naggenda-083075207/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=ug)
-* handshake Contributing
-### Contributions, issues, and feature requests are welcome!
+### Contributing
+ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
